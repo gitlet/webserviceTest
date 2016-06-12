@@ -1,0 +1,5 @@
+/home/gl/wstest/wstesting/wstesting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gl/wstest/wstesting/wstesting/bin/Debug/wstesting.exe.mdb
+/home/gl/wstest/wstesting/wstesting/bin/Debug/wstesting.exe
+/home/gl/wstest/wstesting/wstesting/obj/x86/Debug/wstesting.exe
+/home/gl/wstest/wstesting/wstesting/obj/x86/Debug/wstesting.exe.mdb
